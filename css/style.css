@@ -1,0 +1,106 @@
+@import url("reset.css");
+
+
+* {
+	color: rgb(152, 149, 201);
+} 
+
+p {
+	color: rgb(87, 174, 29);
+} 
+
+ div.text {
+	color: rgb(27, 210, 185);
+} 
+
+h1 {
+	color: brown;
+}
+
+h2 {
+	color: brown;
+}
+
+h3 {
+	color: brown;
+}
+
+h4 {
+	color: brown;
+}
+
+h5 {
+	color: brown;
+}
+
+h6 {
+	color: brown;
+}
+
+h7{
+	color: blueviolet;
+}
+
+span{
+	color: black;
+}
+
+a{
+	color: coral;
+}
+
+.text{
+	color: rgb(235, 243, 99);
+}
+
+#literature_rus4 {
+	color: rgb(21, 14, 217);
+}
+
+.foto {
+	color: rgb(152, 95, 228);
+}
+
+.title {
+	color: rgb(2, 9, 2);
+}
+
+.izbornik__text.gospel__go {
+	color: aliceblue;
+}
+.x-xi,
+.old {
+	color: rgb(103, 219, 219);
+}
+
+.rusi a {
+	color: black;
+}
+
+.version p {
+	color: blueviolet;
+}
+
+.diri .first_library {
+	color: chocolate;
+}
+
+.diri ~ p {
+	color: aqua;
+} 
+
+.text.book__text.text {
+	color: aqua;
+}
+
+.millenium * {
+	color: rgb(210, 126, 17);
+}
+
+.home > p {
+	color: rgb(27, 158, 141);
+}
+
+.home + p {
+	color: rgb(167, 167, 192);
+}
